@@ -1,2 +1,3 @@
 # dotfiles
-Openbox
+
+Openbox personal config.
